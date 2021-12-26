@@ -1,0 +1,15 @@
+.header-class{
+  background-color: khaki;
+  color: darkred;
+  border: 5px solid yellow;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+  
+}
+.heading-firs{
+  font-size: 40px;
+  text-decoration: underline;
+  text-align: center;
+}
